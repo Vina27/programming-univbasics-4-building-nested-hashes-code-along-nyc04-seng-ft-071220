@@ -9,11 +9,7 @@ require_relative '../lib/01_first_challenge.rb'
 #end
 
 
-def first_challenge 
-  #epic_tragedy = {
-    :montague {},
-    :capulet {}
-  }
-  
-  
-  
+ def first_challenge
+  epic_tragedy = {}
+  epic_tragedy = {:montague => {}, :capulet => {}}
+end
