@@ -3,7 +3,7 @@ require_relative '../lib/03_third_challenge.rb'
 def third_challenge
   epic_tragedy = {
    :montague => {
-      :patriarch => {
+      :patriarch => {:name "Lord Montague", :age 53
         #your key/value pairs here
         },
       :matriarch => {
